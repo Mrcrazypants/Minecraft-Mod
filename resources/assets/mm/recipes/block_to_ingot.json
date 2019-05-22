@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "mm:block_of_ender_block"
+    }
+
+    ],
+
+    "result": 
+    {
+        "item": "mm:ender_ingot",
+        "count": 9
+    }
+}

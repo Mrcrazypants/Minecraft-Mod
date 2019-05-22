@@ -1,0 +1,30 @@
+
+
+item.ender_rod.name=Ender Rod
+item.ender_nugget.name=Ender Nugget
+item.ender_ingot.name=Ender Ingot
+item.bluestone_dust.name=Bluestone Dust
+//blocks
+tile.block_of_ender_block.name= Block of Ender
+tile.enderore.name=Ender Ore
+
+
+//Tools
+item.ender_sword.name=Ender Sword
+item.ender_shovel.name=Ender Shovel
+item.ender_pickaxe.name=Ender Pickaxe
+item.ender_axe.name=Ender Axe
+item.ender_hoe.name=Ender Hoe
+
+//Armor
+item.ender_helmet.name=Ender Helmet
+item.ender_chestplate.name=Ender Chestplate
+item.ender_leggings.name=Ender Leggings
+item.ender_boots.name=Ender Boots
+
+//Food
+item.ender_apple.name=Ender Apple
+
+//other
+itemGroup.endertab=Ender Mod
+entity.enderer.name=Enderer

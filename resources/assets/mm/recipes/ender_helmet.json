@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BIB",
+        "I I",
+        "   "
+    ],
+   
+    "key":
+    {
+        "I":
+        {
+            "item": "mm:ender_ingot"
+        },
+        
+          "B":
+        {
+            "item": "mm:block_of_ender_block"
+        }
+        
+       
+    },
+   
+    "result":
+    {
+        "item": "mm:ender_helmet",
+        "count": 1
+    }
+}

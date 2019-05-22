@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "IB ",
+        "IS ",
+        " S "
+    ],
+   
+    "key":
+    {
+        "I":
+        {
+            "item": "mm:ender_ingot"
+        },
+        
+          "B":
+        {
+            "item": "mm:block_of_ender_block"
+        },
+        
+          "S":
+        {
+            "item": "mm:ender_rod"
+        }
+    },
+   
+    "result":
+    {
+        "item": "mm:ender_axe",
+        "count": 1
+    }
+}

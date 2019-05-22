@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "EEE",
+        "EEE",
+        "EEE"
+    ],
+   
+    "key":
+    {
+        "E":
+        {
+            "item": "mm:ender_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "mm:block_of_ender_block",
+        "count": 1
+    }
+}

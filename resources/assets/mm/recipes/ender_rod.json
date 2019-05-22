@@ -1,0 +1,22 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "mm:ender_ingot"
+    },
+    {
+      "item": "mm:ender_ingot"
+    }
+    
+
+    ],
+
+    "result": 
+    {
+        "item": "mm:ender_rod",
+        "count": 1
+    }
+}

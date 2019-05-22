@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "NNN",
+        "NAN",
+        "NNN"
+    ],
+   
+    "key":
+    {
+        "N":
+        {
+            "item": "mm:ender_nugget"
+        },
+        
+          "A":
+        {
+            "item": "minecraft:apple"
+        }
+        
+       
+    },
+   
+    "result":
+    {
+        "item": "mm:ender_apple",
+        "count": 1
+    }
+}

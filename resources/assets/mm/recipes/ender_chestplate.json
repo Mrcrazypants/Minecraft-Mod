@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "I I",
+        "BNB",
+        "IBI"
+    ],
+   
+    "key":
+    {
+        "I":
+        {
+            "item": "mm:ender_ingot"
+        },
+        
+          "B":
+        {
+            "item": "mm:block_of_ender_block"
+        },
+        
+           "N":
+        {
+            "item": "minecraft:nether_star"
+        }
+        
+       
+    },
+   
+    "result":
+    {
+        "item": "mm:ender_chestplate",
+        "count": 1
+    }
+}
